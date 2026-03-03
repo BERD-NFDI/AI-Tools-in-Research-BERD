@@ -1,0 +1,51 @@
+respondent_id,age,gender,region,overall_satisfaction_1_5,nps_score_0_10,purchase_frequency,price_perception,would_recommend,open_comment
+1,56.0,Non-binary,South,5,5,Weekly,Fair,Yes,Packaging was damaged.
+2,69.0,Female,South,3,,Quarterly,Very expensive,Yes,Great quality overall.
+3,46.0,Male,East,4,,Monthly,Fair,No,Great quality overall.
+4,32.0,Male,East,4,,Weekly,Fair,No,Packaging was damaged.
+5,60.0,Female,West,3,10,Quarterly,Somewhat expensive,Yes,Good value for the price.
+6,25.0,Male,South,,4,Weekly,Fair,Yes,Customer service could be improved.
+7,38.0,Male,North,,1,Rarely,Very expensive,Yes,Customer service could be improved.
+8,56.0,Female,East,3,,,Very expensive,Yes,Customer service could be improved.
+9,36.0,Male,West,4,,Rarely,Good value,Yes,Packaging was damaged.
+10,40.0,Non-binary,East,3,,Monthly,Fair,Yes,Great quality overall.
+11,28.0,Male,West,3,6,Weekly,Somewhat expensive,Yes,Packaging was damaged.
+12,28.0,Female,South,1,6,Rarely,Fair,Yes,Packaging was damaged.
+13,41.0,Male,East,4,,Monthly,Good value,Yes,Exceeded expectations.
+14,53.0,Female,South,4,,,Somewhat expensive,Yes,Great quality overall.
+15,57.0,Female,North,2,,,Fair,Yes,Exceeded expectations.
+16,41.0,Male,North,3,,Rarely,Very expensive,Yes,Not satisfied with durability.
+17,20.0,Non-binary,North,5,,Monthly,Very expensive,Yes,Great quality overall.
+18,39.0,Female,East,3,1,Monthly,Fair,No,Great quality overall.
+19,19.0,Non-binary,South,2,3,Rarely,Fair,Yes,Great quality overall.
+20,41.0,Female,East,4,,Monthly,Fair,Yes,Customer service could be improved.
+21,61.0,Female,West,,,Weekly,Fair,Yes,Customer service could be improved.
+22,47.0,Non-binary,North,3,0,Quarterly,,Yes,Exceeded expectations.
+23,55.0,Male,South,,2,Rarely,Fair,Yes,Exceeded expectations.
+24,,Male,West,5,,Quarterly,Somewhat expensive,Yes,Great quality overall.
+25,38.0,Male,North,3,0,Quarterly,Good value,No,Exceeded expectations.
+26,50.0,Male,North,4,3,Weekly,Somewhat expensive,Yes,Customer service could be improved.
+27,29.0,Male,South,3,10,Quarterly,Fair,Yes,Packaging was damaged.
+28,39.0,Male,North,4,,,Very expensive,Yes,Packaging was damaged.
+29,61.0,Female,West,4,,Weekly,Very expensive,Yes,Packaging was damaged.
+30,42.0,Male,West,4,4,Monthly,,Yes,Exceeded expectations.
+31,66.0,Male,East,2,,Rarely,Good value,No,Not satisfied with durability.
+32,44.0,Female,West,5,,Quarterly,Fair,Yes,Customer service could be improved.
+33,59.0,Male,West,3,6,Quarterly,Fair,,Not satisfied with durability.
+34,45.0,Female,North,3,,Quarterly,Somewhat expensive,No,Exceeded expectations.
+35,33.0,Male,West,1,,Monthly,Somewhat expensive,Yes,Good value for the price.
+36,32.0,,East,4,,Monthly,Somewhat expensive,Yes,
+37,64.0,Female,West,,,Rarely,Fair,Yes,
+38,68.0,Male,West,1,,Rarely,Fair,Yes,Great quality overall.
+39,61.0,Male,South,,1,Rarely,Fair,Yes,
+40,69.0,Female,North,3,7,Rarely,Somewhat expensive,Yes,
+41,20.0,Female,North,4,5,Monthly,,Yes,Customer service could be improved.
+42,54.0,Female,South,3,4,Monthly,Fair,Yes,Packaging was damaged.
+43,68.0,Female,West,4,,Quarterly,Fair,No,Not satisfied with durability.
+44,24.0,Male,West,3,7,Quarterly,Fair,Yes,Good value for the price.
+45,38.0,Male,North,5,,Quarterly,Fair,No,Good value for the price.
+46,26.0,Male,East,2,,Quarterly,Somewhat expensive,Yes,Customer service could be improved.
+47,56.0,Female,South,3,,Rarely,Fair,Yes,Customer service could be improved.
+48,35.0,Female,North,2,10,Monthly,Good value,Yes,
+49,21.0,Male,North,5,,Monthly,Very expensive,Yes,Good value for the price.
+50,42.0,Male,South,5,9,Weekly,Somewhat expensive,No,Great quality overall.
